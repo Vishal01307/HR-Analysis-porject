@@ -1,1 +1,1 @@
-# HR-Analysis-porject
+# HR-Analytics-Project
